@@ -1,5 +1,3 @@
-package com.company;
-
 // TFS
 // SVN
 // GIT
